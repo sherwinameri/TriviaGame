@@ -1,4 +1,42 @@
+/* CSS Doc */
+
 h1{
-        color: blue;
-        background-color: red;
+      color: red;
+      background-color: blue;
   }
+
+#whole-page {
+    background-image: url(../images/lightsand.jpg);
+    background-size:cover;
+    text-align: center;
+  }
+
+  #show-time{
+    font-size: 150%;
+  }
+
+  #music {
+font-weight: bold;
+  }
+
+  #sports {
+font-weight: bold;
+  }
+
+  #television {
+font-weight: bold;
+  }
+
+  #politics {
+font-weight: bold;
+  }
+
+  #technology {
+font-weight: bold;
+  }
+
+
+
+
+
+
